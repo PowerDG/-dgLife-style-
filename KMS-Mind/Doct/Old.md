@@ -39,3 +39,20 @@ ssr://MjAyLjE4Mi4xMDEuMTgwOjg5NTc6YXV0aF9hZXMxMjhfbWQ1OmFlcy0yNTYtY2ZiOnBsYWluOl
 ![image-20200119001247834](Old.assets/image-20200119001247834.png)
 
 λ .\client_windows_amd64.exe -r "45.77.10.57:19696" --key "wsx10086"   --mode "fast2"  --mtu 1350 --sndwnd 1024 --rcvwn d 1024
+
+
+
+
+
+
+
+
+
+----
+
+1001
+
+36996
+
+---
+
