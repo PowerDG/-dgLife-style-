@@ -1,6 +1,10 @@
-
+MIDI[键盘?](https://www.zhihu.com/search?q=MIDI%E9%94%AE%E7%9B%98%3F&type=content) [zhihu]
 
 https://www.zhihu.com/question/363524866/answer/961470626
+
+FATAR Studiologic SL990PRO值得入手吗？或者还有其他的推荐吗？预算4500至5K，要求就是手感好点、88键的、
+
+  [Fatar Studiologic SL-990 XP (review)](https://www.jitashe.org/video/9371936/)  [[link](https://www.jitashe.org/video/9371936/)]
 
 
 
