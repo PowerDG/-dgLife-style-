@@ -1,3 +1,5 @@
+## ShadowsocksR-dotnet4.
+
 202.182.101.180
 
 8957
@@ -30,6 +32,18 @@ ssr://MjAyLjE4Mi4xMDEuMTgwOjg5NTc6YXV0aF9hZXMxMjhfbWQ1OmFlcy0yNTYtY2ZiOnBsYWluOl
 
 
 
+![image-20200124144907383](Old.assets/image-20200124144907383.png)
+
+---
+
+
+
+![image-20200124144844486](Old.assets/image-20200124144844486.png)
+
+
+
+
+
 
 
 ---
@@ -42,7 +56,8 @@ ssr://MjAyLjE4Mi4xMDEuMTgwOjg5NTc6YXV0aF9hZXMxMjhfbWQ1OmFlcy0yNTYtY2ZiOnBsYWluOl
 
 
 
-
+E:\Users\PowerDG\Downloads\cmder_mini
+λ .\client_windows_amd64.exe -r "202.182.101.180:18957" --key "Nuget@wsx7"   --mode "fast2"  --mtu 1350 --sndwnd 102 4 --rcvwnd 1024
 
 
 
