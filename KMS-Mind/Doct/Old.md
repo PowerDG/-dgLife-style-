@@ -61,6 +61,11 @@ E:\Users\PowerDG\Downloads\cmder_mini
 
 
 
+````
+.\client_windows_amd64.exe -r "45.77.10.57:19696" --key "wsx10086"   --mode "fast2"  --mtu 1350 --sndwnd 102 4 --rcvwnd 1024
+
+````
+
 
 
 ----
