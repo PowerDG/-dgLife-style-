@@ -52,9 +52,22 @@ ssr://MjAyLjE4Mi4xMDEuMTgwOjg5NTc6YXV0aF9hZXMxMjhfbWQ1OmFlcy0yNTYtY2ZiOnBsYWluOl
 
 ![image-20200119001247834](Old.assets/image-20200119001247834.png)
 
-λ .\client_windows_amd64.exe -r "45.77.10.57:19696" --key "wsx10086"   --mode "fast2"  --mtu 1350 --sndwnd 1024 --rcvwn d 1024
+λ .\client_windows_amd64.exe -r "45.77.10.57:19696" --key "wsx10086"   --mode "fast2"  --mtu 1350 --sndwnd 1024 --rcvw
+
+n d 1024
 
 E:\devDg\dgMap
+
+
+
+```
+
+.\client_windows_amd64.exe -r "45.77.10.57:19696" --key "wsx10086"   --mode "fast2"  --mtu 1350 --sndwnd 102 4 --rcvwnd 1024
+
+
+```
+
+
 
 E:\Users\PowerDG\Downloads\cmder_mini
 λ .\client_windows_amd64.exe -r "202.182.101.180:18957" --key "Nuget@wsx7"   --mode "fast2"  --mtu 1350 --sndwnd 102 4 --rcvwnd 1024
