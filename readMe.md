@@ -12,10 +12,6 @@ You do what's in your heart.
 
 
 
-
-
-
-
 Spend a little more time trying to make something of yourself and a little less time trying to impress people.
 花少点时间去取悦别人，多花些时间来经营自己。
 
