@@ -1,5 +1,10 @@
 不谋全局者，不足以谋一隅，不谋大势者，不足以谋一时
 
+The future has not been written. There is no fate but what we make for ourselves.
+一切未成定局，未来等待你去开创。
+
+
+
 【能看到全貌往往是最危险的】
 
 技术人员=容易现在技术中 ，忘了抬头看看路
