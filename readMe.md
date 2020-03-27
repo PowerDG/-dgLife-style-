@@ -12,8 +12,6 @@ You do what's in your heart.
 
 20190919
 
-
-
 Spend a little more time trying to make something of yourself and a little less time trying to impress people.
 花少点时间去取悦别人，多花些时间来经营自己。
 
@@ -25,7 +23,8 @@ Spend a little more time trying to make something of yourself and a little less 
 
 
 
-
+Sometimes that thing you're searching for your whole life, it's right there by your side all along.
+有时候你寻找了一生的东西，其实一直在你身边。
 
 八勿”的“复兴之道”：
 **勿因我见而轻启政争；**
