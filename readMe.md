@@ -11,6 +11,13 @@ The future has not been written. There is no fate but what we make for ourselves
 
 既定的已知中，事实动态变化中固守己见。
 
+When given the choice between being right or being kind, choose kind.
+当你要在正确和善良之间做选择的时候，选择善良。【20200329】
+
+怎样成为一个沉稳的人？ - 北辰青年的回答 - 知乎 https://www.zhihu.com/question/21821931/answer/1104130825
+
+![img](readMe.assets/v2-c4991e62341af36174d068790ea655ac_720w.jpg)
+
 ## 居安思危0
 
 What's past is prologue.
