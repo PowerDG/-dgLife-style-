@@ -1,3 +1,5 @@
+
+
 不谋全局者，不足以谋一隅，不谋大势者，不足以谋一时
 
 The future has not been written. There is no fate but what we make for ourselves.
