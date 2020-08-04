@@ -10,3 +10,6 @@ You do what's in your heart.
 
 20190919
 
+| shop-order-invoke     |
+| --------------------- |
+| Tuhu.Service.Purchase |
